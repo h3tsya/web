@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "gta";
+  src: url("gta.woff-webfont") format("woff2"),
+       url("gta.woff-webfont") format("woff"),
+       url("gta.ttf") format("truetype"),
+       url("gta.eot") format("embedded-opentype"),
+       url("gta.svg") format("svg");
+}
